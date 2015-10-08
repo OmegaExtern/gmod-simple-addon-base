@@ -1,0 +1,1 @@
+print( "Shared environment.", CLIENT, SERVER )

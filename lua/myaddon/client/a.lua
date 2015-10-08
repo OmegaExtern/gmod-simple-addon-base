@@ -1,0 +1,1 @@
+print( "a.lua: Before hello.lua!" )
